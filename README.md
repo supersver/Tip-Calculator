@@ -1,1 +1,1 @@
-# Tip-Calculator
+# Responsive Tip-Calculator
